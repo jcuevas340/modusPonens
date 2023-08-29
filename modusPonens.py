@@ -12,4 +12,3 @@ if afirmacion2:
 
         
 El sarten esta caliente
-# Afirmaciones
